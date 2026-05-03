@@ -1,0 +1,9 @@
+[submodule "VisionArtAI-Frontend"]
+	path = VisionArtAI-Frontend
+	url = https://github.com/heigon77/VisionArtAI-Frontend.git
+[submodule "VisionArtAI-Training"]
+	path = VisionArtAI-Training
+	url = https://github.com/heigon77/VisionArtAI-Training.git
+[submodule "VisionArtAI-Backend"]
+	path = VisionArtAI-Backend
+	url = https://huggingface.co/spaces/heigon77/VisionArtAI-Backend
